@@ -1,0 +1,4 @@
+env:
+  APP_COMMAND: bash ./run.sh
+test: bash ./test.sh
+
